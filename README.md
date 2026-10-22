@@ -1,2 +1,2 @@
 # simulador_De_Stock_PreEntrega3
-Es la actualizacion del simulador que ya habia hecho, pero con
+Simulador de Stock desarrollado en JavaScript, actualizado para la Pre-Entrega 3 del módulo de Funciones.
